@@ -9,7 +9,7 @@ E conhecimento de:
 - HTML
 - CSS
 
-Utilizo as ferramentas/tecnologias, como:
+Utilizo as ferramentas/tecnologias:
 - Docker
 - Bitbucket
 - Jira
